@@ -1,0 +1,37 @@
+{
+  "about": {
+    "hello": "Hi, I'm Natalia! ",
+    "developer": " Full Stack Web Developer",
+    "me": "I stand out for being a committed, analytical, and detail-oriented person, which allows me to approach each project with precision and efficiency. I am always willing to learn and contribute new ideas to take projects to the next level. ",
+    "invitation": "Work with me",
+    "checkapps": "Check out my apps"
+  },
+  "navbar":{
+    "myapps": "My apps",
+    "tech": "Technologies",
+    "contact": "Contact me"
+}, "projects":{
+    "apps": "Applications I have built",
+    "checkProjects": "Here are my developed projects. Check them out!",
+    "title1": "Rick and Morty App",
+    "subtitle1": "Henry Integrative Project",
+    "description1": "This Single Page App allows you to explore, search, add to favorites, delete, filter, and sort all the characters from the series fetched from an external API. ",
+    "title2": "Recipes App",
+    "subtitle2": "Individual Project Henry",
+    "description2": "This platform allows you to explore, search, filter, sort, create, and delete recipes. Discover new recipes and share your own creations! "
+},
+"skills": {
+    "technologies": "Skills and Technologies",
+    "discover": "Discover the Skills and Technologies that drive my projects. "
+},
+"contact": {
+    "me": "Contact me!",
+    "invitation": "Don't hesitate to send me a message to start working together on challenging projects. I look forward to hearing from you soon! ",
+    "name": "Name:",
+    "email": "Email address:",
+    "message": "Message:",
+    "send": "Send",
+    "socials": "You can also find me on my social media!"
+    
+}
+}

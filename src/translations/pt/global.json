@@ -1,0 +1,37 @@
+{
+  "about": {
+    "hello": "Oi, sou Natalia! ",
+    "developer": "Desenvolvedora Web Full Stack",
+    "me": "Destaco-me por ser uma pessoa comprometida, analítica e detalhista, o que me permite abordar cada projeto com precisão e eficiência. Estou sempre disposta a aprender e contribuir com novas ideias para levar os projetos ao próximo nível. ",
+    "invitation": "Trabalhe comigo",
+    "checkapps": "Veja minhas aplicações"
+  },
+  "navbar":{
+    "myapps": "Minhas aplicações",
+    "tech": "Tecnologias",
+    "contact": "Contate-me"
+},
+"projects":{
+    "apps": "Aplicações que eu construí",
+    "checkProjects": "Aqui estão meus projetos desenvolvidos. Dê uma olhada neles!",
+    "title1": "Aplicativo de Rick e Morty",
+    "subtitle1": "Projeto Integrador Henry",
+    "description1": "Esta Single Page permite explorar, pesquisar, adicionar aos favoritos, excluir, filtrar e ordenar todos os personagens da série extraídos de uma API externa. ",
+    "title2": "Aplicativo de Receitas",
+    "subtitle2": "Projeto Individual Henry",
+    "description2": "Esta plataforma permite explorar, pesquisar, filtrar, ordenar, criar e excluir receitas. Descubra novas receitas e compartilhe suas próprias criações! "
+},
+"skills": {
+    "technologies": "Habilidades e Tecnologias",
+    "discover": "Conheça as Habilidades e Tecnologias que impulsionam meus projetos. "
+},
+"contact": {
+    "me": "Entre em contato comigo!",
+    "invitation": "Não hesite em me enviar uma mensagem para começarmos a trabalhar juntos em projetos desafiadores. Espero receber notícias suas em breve! ",
+    "name": "Nome:",
+    "email": "Endereço de e-mail:",
+    "message": "Mensagem:",
+    "send": "Enviar",
+    "socials": "Você também pode me encontrar nas minhas redes sociais!"
+}
+}
