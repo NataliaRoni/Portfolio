@@ -1,7 +1,8 @@
 import "tailwindcss/tailwind.css";
 import { FaCode } from "react-icons/fa";
 import rickandmorty from "../../images/Rick and Morty.png";
-import recipes from "../../images/Recipes.png";
+import recipes from "../../images/nataliarecipes.png";
+import festin from "../../images/festinonline.png"
 import React from "react";
 import { useTranslation } from "react-i18next";
 
@@ -10,11 +11,11 @@ export default function Projects() {
 
   const projects = [
     {
-      title: t("projects.title1"),
-      subtitle: t("projects.subtitle1"),
-      description: t("projects.description1") + "👽",
-      image: rickandmorty,
-      link: "https://rick-and-morty-front-theta.vercel.app/",
+      title: t("projects.title3"),
+      subtitle: t("projects.subtitle3"),
+      description: t("projects.description3") + "🍔",
+      image: festin,
+      link: "https://pf-front-end-grupo3.vercel.app/",
     },
     {
       title: t("projects.title2"),
@@ -23,12 +24,19 @@ export default function Projects() {
       image: recipes,
       link: "https://pi-front-natalia.vercel.app/",
     },
+    {
+      title: t("projects.title1"),
+      subtitle: t("projects.subtitle1"),
+      description: t("projects.description1") + "👽",
+      image: rickandmorty,
+      link: "https://rick-and-morty-front-theta.vercel.app/",
+    }
   ];
 
   return (
     <section id="projects" className="text-gray-400 bg-cyan-950 body-font">
       <div className="container px-5 py-10 mx-auto text-center lg:px-40 bg-cyan-950">
-        <div className="flex flex-col w-full mb-20">
+        <div className="flex flex-col w-full mb-16">
           <FaCode className="mx-auto inline-block mb-4" style={{ fontSize: "2.3rem"}}/>
           <h1 className="sm:text-4xl text-3xl font-medium title-font mb-4 text-white">
             {t("projects.apps")}
@@ -37,12 +45,12 @@ export default function Projects() {
             {t("projects.checkProjects")}😃
           </p>
         </div>
-        <div className="flex flex-wrap -m-4">
+        <div className="flex flex-wrap -m-4 flex-col items-center">
           {projects.map((project) => (
             <a
               href={project.link}
               key={project.image}
-              className="sm:w-1/2 w-100 p-4"
+              className="sm:w-3/5 w-full p-4"
               target="_blank"
     rel="noopener noreferrer"
             >

@@ -17,8 +17,11 @@
     "subtitle1": "Henry Integrative Project",
     "description1": "This Single Page App allows you to explore, search, add to favorites, delete, filter, and sort all the characters from the series fetched from an external API. ",
     "title2": "Recipes App",
-    "subtitle2": "Individual Project Henry",
-    "description2": "This platform allows you to explore, search, filter, sort, create, and delete recipes. Discover new recipes and share your own creations! "
+    "subtitle2": "Henry Individual Project ",
+    "description2": "This platform allows you to explore, search, filter, sort, create, and delete recipes. Discover new recipes and share your own creations! ",
+    "title3": "El Festín Online",
+    "subtitle3": "Henry Group Project",
+    "description3": "This platform allows you to explore dishes, place custom orders, make payments through Mercado Pago, authenticate with Google, reserve tables, manage the page from a dashboard, etc. Discover all the functionalities yourself!"
 },
 "skills": {
     "technologies": "Skills and Technologies",

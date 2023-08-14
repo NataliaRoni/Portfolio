@@ -19,7 +19,10 @@
     "description1": "Esta Single Page permite explorar, pesquisar, adicionar aos favoritos, excluir, filtrar e ordenar todos os personagens da série extraídos de uma API externa. ",
     "title2": "Aplicativo de Receitas",
     "subtitle2": "Projeto Individual Henry",
-    "description2": "Esta plataforma permite explorar, pesquisar, filtrar, ordenar, criar e excluir receitas. Descubra novas receitas e compartilhe suas próprias criações! "
+    "description2": "Esta plataforma permite explorar, pesquisar, filtrar, ordenar, criar e excluir receitas. Descubra novas receitas e compartilhe suas próprias criações! ",
+    "title3": "El Festín Online",
+    "subtitle3": "Projeto em Grupo Henry",
+    "description3": "Esta plataforma permite explorar pratos, fazer pedidos, realizar pagamentos através do Mercado Pago, autenticar-se com o Google, reservar mesas, gerenciar a página a partir de um painel de controle, etc. Descubra todas as funcionalidades por si mesmo!"
 },
 "skills": {
     "technologies": "Habilidades e Tecnologias",
